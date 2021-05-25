@@ -1,12 +1,13 @@
 # chicken837
-Projet de programmation 1A ENSAE 2020/2021 : \\
-Simulation de l’évolution d’un réseau social et de la propagation de l’information au sein de ce réseau
+1A ENSAE 2020/2021
+
+Projet de programmation :
+
+***Simulation de l’évolution d’un réseau social et de la propagation de l’information au sein de ce réseau***
 
 
 
-Notebook disponible sous le nom de chicken_837_final
-
-Vous trouverez également le rapport
+Notebook disponible sous le nom de *chicken_837_final*, vous trouverez également le rapport ici !
 
 Le fichier *networkOfFollowers* étant trop lourd, il a été compressé au format .rar
 
