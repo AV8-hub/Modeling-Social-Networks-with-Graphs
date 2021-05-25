@@ -1,9 +1,7 @@
 # chicken837
 1A ENSAE 2020/2021
 
-Projet de programmation :
-
-***Simulation de l’évolution d’un réseau social et de la propagation de l’information au sein de ce réseau***
+Projet de programmation : ***Simulation de l’évolution d’un réseau social et de la propagation de l’information au sein de ce réseau***
 
 BORDES Martin et ROSUNEE Avichaï
 
