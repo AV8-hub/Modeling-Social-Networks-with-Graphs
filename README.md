@@ -3,6 +3,8 @@ Projet de programmation :   Simulation de l’évolution d’un réseau social e
 
 Notebook disponible sous le nom de chicken_837_final
 
+Vous trouverez également le rapport dans
+
 Le fichier *networkOfFollowers* étant trop lourd, il a été compressé au format .rar
 
 Le fichier *followers_ensae* est disponible tel quel
