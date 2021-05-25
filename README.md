@@ -8,12 +8,6 @@ Projet de programmation :
 BORDES Martin et ROSUNEE Avichaï
 
 
-
-
-
-
-
-
 Notebook disponible sous le nom de *chicken_837_final*, vous trouverez également le rapport ici !
 
 Le fichier *networkOfFollowers* étant trop lourd, il a été compressé au format .rar
