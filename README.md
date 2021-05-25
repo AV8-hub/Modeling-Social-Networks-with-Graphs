@@ -5,6 +5,8 @@ Projet de programmation :
 
 ***Simulation de l’évolution d’un réseau social et de la propagation de l’information au sein de ce réseau***
 
+BORDES Martin et ROSUNEE Avichaï
+
 
 
 Notebook disponible sous le nom de *chicken_837_final*, vous trouverez également le rapport ici !
